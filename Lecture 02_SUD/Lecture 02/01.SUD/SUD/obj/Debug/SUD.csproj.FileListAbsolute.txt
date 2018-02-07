@@ -1,0 +1,7 @@
+C:\Users\Max\Desktop\GitHub\SecondYear\Comp260\Lecture 02\Lecture 02\01.SUD\SUD\bin\Debug\SUD.exe.config
+C:\Users\Max\Desktop\GitHub\SecondYear\Comp260\Lecture 02\Lecture 02\01.SUD\SUD\bin\Debug\SUD.exe
+C:\Users\Max\Desktop\GitHub\SecondYear\Comp260\Lecture 02\Lecture 02\01.SUD\SUD\bin\Debug\SUD.pdb
+C:\Users\Max\Desktop\GitHub\SecondYear\Comp260\Lecture 02\Lecture 02\01.SUD\SUD\obj\Debug\SUD.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\GitHub\SecondYear\Comp260\Lecture 02\Lecture 02\01.SUD\SUD\obj\Debug\SUD.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\GitHub\SecondYear\Comp260\Lecture 02\Lecture 02\01.SUD\SUD\obj\Debug\SUD.exe
+C:\Users\Max\Desktop\GitHub\SecondYear\Comp260\Lecture 02\Lecture 02\01.SUD\SUD\obj\Debug\SUD.pdb
